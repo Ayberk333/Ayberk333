@@ -32,9 +32,7 @@ Languages:
   - SQL
 
 Focus:
-  - Software & Game Development
   - Game Hacking & Modding
-  - Object-Oriented Programming
       </pre>
     </td>
     <td valign="top" width="50%">
@@ -52,8 +50,6 @@ Focus:
 
 <div align="center">
   <h3>📌 Featured</h3>
-  <img src="https://img.shields.io/badge/HWID_SYSTEM-222222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/KEYAUTH_INTEGRATION-222222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FIVEM_UTILITIES-222222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DRENIXWARS-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FIVEM-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BYPASS-222222?style=for-the-badge" />
 </div>
